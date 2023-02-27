@@ -1,7 +1,5 @@
 //========================================================================================================================================!
 // Programmer: Michael Clausen
-// Project: Little Genetic Algorithm (LGA)
-// Date: 4/27/2021
 // File: main.cpp
 // Description: An implimentation of the Little Genetic Algorithm as outlined in "An Introduction to Genetic Algorithms for Scientists
 //              and Engineers" by David A. Coley
