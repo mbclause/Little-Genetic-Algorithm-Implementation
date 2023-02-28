@@ -6,7 +6,7 @@ This program was a solo project written in C++. It is an implimentation of the L
 strings.
 
 2. Decode each individual, i, within the population to
-integers z sub i, k and then to real numbers r sub i,k, to obtain the
+integers z sub i, k and then to real numbers r sub i,k to obtain the
 unknown parameters.
 
 3. Test each individual in turn on the problem at hand and
